@@ -1,5 +1,5 @@
-5 Septembre 2015 - Organisation Event Crêpes
-============================================
+13 Septembre 2015 - Assemblée Générale
+======================================
 
 Lieu
 ----
