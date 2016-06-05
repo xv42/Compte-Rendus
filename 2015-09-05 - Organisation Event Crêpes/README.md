@@ -76,11 +76,11 @@ Date et Horaires
 
 ### Service et Préparation
   * Préparation
-  * J-1 Metro: Achats
-  * Matin 10h pour préparation de la pâte
+    - J-1 Metro: Achats
+    - Matin 10h pour préparation de la pâte
   * Service
-  * 14h30 Préparation crêpes
-  * 15h Début des ventes
+    - 14h30 Préparation crêpes
+    - 15h Début des ventes
   * Caisse + Carte Bleue
 
 ### Promotion de l'Event
