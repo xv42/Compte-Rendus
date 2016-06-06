@@ -57,6 +57,8 @@ La licence est annuelle et délivrée pour la durée de la saison sportive.
 Une licence peut être retirée à son titulaire soit pour non-respect de la réglementation administrative ou sportive, soit pour motif disciplinaire, dans les conditions prévues par le règlement disciplinaire fédéral, qui seul fait force en la matière, ou par le règlement disciplinaire particulier lié au dopage. Cela dans le respect le plus strict des droits de la défense de l'intéressé.
 ```
 
+La modification, la rédaction du procès-verbal et l'envoi en préfecture des nouveaux statuts sera effectuée par Christophe Feijoo.
+
 Vote pour l'élection d'un nouveau Bureau Directeur
 --------------------------------------------------
 Les membres présents se prononcent à l'unanimité pour l'élection d'un nouveau bureau directeur
