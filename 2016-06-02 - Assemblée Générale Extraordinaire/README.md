@@ -89,9 +89,9 @@ Le nouveau bureau directeur est donc composé comme suit:
 
 |                        |                           |
 | ---------------------- | ------------------------: |
-| Président              | Joris Boquet              |
-| Trésorier              | Franklin Tabaries         |
-| Secrétaire             | Christophe Feijoo         |
-| Trésorier-Adjoint      | Antoine Mineau            |
-| Auxiliaire             | Rida Bikitaran            |
-| Auxiliaire             | Théo Deniset              |
+| **Président**          | Joris Boquet              |
+| **Trésorier**          | Franklin Tabaries         |
+| **Secrétaire**         | Christophe Feijoo         |
+| **Trésorier-Adjoint**  | Antoine Mineau            |
+| **Auxiliaire**         | Rida Bikitaran            |
+| **Auxiliaire**         | Théo Deniset              |
