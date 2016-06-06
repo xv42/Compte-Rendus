@@ -85,6 +85,7 @@ Les membres présents se prononcent à l'unanimité pour l'élection d'un nouvea
 
 Nouveau Bureau Directeur
 ------------------------
+Le nouveau bureau directeur est donc composé comme suit:
 
 |                        |                           |
 | ---------------------- | ------------------------: |
