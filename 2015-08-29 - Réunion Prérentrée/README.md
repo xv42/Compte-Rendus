@@ -6,7 +6,7 @@ Lieu
 * __Salle de réunion 42__
 * 19h00
 
-Ordre du Jour
+Ordre du jour
 -------------
 > Organisation de l'Assemblée Générale et de la saison 2015-2016
 
