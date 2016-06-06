@@ -9,8 +9,8 @@ Lieu
 Ordre du jour
 -------------
 > Vote des modifications statutaires suite à la volonté émise par le Bureau de quitter l'affiliation à la FFSE.
-
-  Élection du nouveau Président suite au départ de Aurélien Costes.
+> 
+> Élection du nouveau Président suite au départ de Aurélien Costes.
 
 Présents
 --------
